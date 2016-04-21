@@ -6,7 +6,7 @@ var CONFIG = {
   index: "README.md",
 
   // sidebar file
-  sidebar_file: "mulu.md",
+  sidebar_file: "sidebar.md",
 
   // where the docs are actually stored on github - so you can edit
   base_url: "https://github.com/o39n27/liu/edit/gh-pages",
