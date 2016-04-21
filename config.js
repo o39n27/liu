@@ -1,15 +1,15 @@
 var CONFIG = {
   // your website's title
-  document_title: "电子书",
+  document_title: "dys电子书",
 
   // index page
   index: "README.md",
 
   // sidebar file
-  sidebar_file: "sidebar.md",
+  sidebar_file: "mulu.md",
 
   // where the docs are actually stored on github - so you can edit
-  base_url: "https://github.com/jiaoqiang12/d/edit/gh-pages",
+  base_url: "https://github.com/o39n27/liu/edit/gh-pages",
 };
 
 // **************************
