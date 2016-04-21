@@ -6,7 +6,7 @@
 
 ## 目录
 1. [前言](#README)
-1. [准备](#docs/ZB)
+1. [准~备](#docs/ZBEI)
 1. [写作](#docs/XZ) 
 1. [读懂规格](#docs/ddgz)
 1. [参考链接](#docs/cklj)
