@@ -1,6 +1,6 @@
 var CONFIG = {
   // your website's title
-  document_title: "dys电子书",
+  document_title: "电子书",
 
   // index page
   index: "README.md",
